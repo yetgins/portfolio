@@ -20,12 +20,12 @@ const Comment = () => {
   };
 
   const removeHandleButtonClick = (i) => {
-    console.log(comments);
+    //console.log(comments);
     if (i >= 0) {
       comments.splice(i, 1);
       setComments(comments);
     }
-    console.log(comments)
+    //console.log(comments)
   };
 
   const handleUserInputChange = (event) => {
@@ -54,12 +54,12 @@ const Comment = () => {
   useEffect(() => {
     // degisiklik oldugunda calis
     checkUserInput();
-    console.log("useEffect calisti - userIput:" + userInput);
+    //console.log("useEffect calisti - userIput:" + userInput);
   }, [userInput]);
 
   useEffect(() => {
     removeHandleButtonClick();
-    console.log("useEffect calisti - checkComments:" + comments);
+    //console.log("useEffect calisti - checkComments:" + comments);
   })
 
 
