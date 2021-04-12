@@ -22,48 +22,6 @@ const About = () => {
         am interested in bridge and had lectures from ITU. I play chess, I have
         chess tournament awards.
       </p>
-      <p>
-        Also, I am trying to be the best frontend developer that’s why I am open
-        to learn new technologies specifically interested in HTML, CSS,
-        JavaScript and React besides modern libraries and frameworks. Lastly, I
-        am interested in bridge and had lectures from ITU. I play chess, I have
-        chess tournament awards.
-      </p>
-      <p>
-        Also, I am trying to be the best frontend developer that’s why I am open
-        to learn new technologies specifically interested in HTML, CSS,
-        JavaScript and React besides modern libraries and frameworks. Lastly, I
-        am interested in bridge and had lectures from ITU. I play chess, I have
-        chess tournament awards.
-      </p>
-      <p>
-        Also, I am trying to be the best frontend developer that’s why I am open
-        to learn new technologies specifically interested in HTML, CSS,
-        JavaScript and React besides modern libraries and frameworks. Lastly, I
-        am interested in bridge and had lectures from ITU. I play chess, I have
-        chess tournament awards.
-      </p>
-      <p>
-        Also, I am trying to be the best frontend developer that’s why I am open
-        to learn new technologies specifically interested in HTML, CSS,
-        JavaScript and React besides modern libraries and frameworks. Lastly, I
-        am interested in bridge and had lectures from ITU. I play chess, I have
-        chess tournament awards.
-      </p>
-      <p>
-        Also, I am trying to be the best frontend developer that’s why I am open
-        to learn new technologies specifically interested in HTML, CSS,
-        JavaScript and React besides modern libraries and frameworks. Lastly, I
-        am interested in bridge and had lectures from ITU. I play chess, I have
-        chess tournament awards.
-      </p>
-      <p>
-        Also, I am trying to be the best frontend developer that’s why I am open
-        to learn new technologies specifically interested in HTML, CSS,
-        JavaScript and React besides modern libraries and frameworks. Lastly, I
-        am interested in bridge and had lectures from ITU. I play chess, I have
-        chess tournament awards.
-      </p>
     </AboutContainer>
   );
 };
